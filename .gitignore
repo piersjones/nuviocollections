@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Allow subdirectories
+!*/
+
+# Exclude working files and internal docs
+working_files/
+AGENTS.md
+.DS_Store
+
+# Include final asset directories and .gitignore
+!streaming_services/
+!streaming_services/**
+!watchlists/
+!watchlists/**
+!.gitignore
