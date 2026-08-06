@@ -14,4 +14,6 @@ AGENTS.md
 !streaming_services/**
 !watchlists/
 !watchlists/**
+!categories/
+!categories/**
 !.gitignore
